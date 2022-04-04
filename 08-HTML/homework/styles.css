@@ -1,0 +1,50 @@
+
+    body {
+                
+        background-size: contain;
+        background-image: url(https://img.freepik.com/foto-gratis/estudio-gris-vacio-liso-abstracto-bien-uso-como-fondo-informe-comercial-digital-plantilla-sitio-web-telon-fondo_1258-55961.jpg?size=626&ext=jpg&uid=R66995052&ga=GA1.2.1870094481.1647711552);
+        padding-bottom: 10em;
+        }
+      
+        .divClass{
+            color: rgb(255, 255, 255);
+        }
+
+        #contenedor-d3 {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+    
+    h1,h2,h3,h4 {
+        
+        font-family: monospace,'Courier New';
+        display: flex;
+        justify-content: center;
+        text-shadow: 4px 4px 4px rgb(5, 5, 5);
+        
+    }
+    #spanId{
+        font-size:18px;/*no cambiar*/
+        font-family: monospace;
+        margin: 50px;/*no cambiar*/        
+    }
+    #thirdDiv{        
+        height: 600px;/*no cambiar*/
+        width: 500px;/*no cambiar*/
+        background-color: rgb(155, 142, 142);
+        padding: 50px;/*no cambiar*/                                                                         
+        border: 15px double #191b1a;        
+    }
+    
+    img {
+        width: 400px;/*no cambiar*/
+    }
+    a {
+        color:rgb(0, 0, 0);
+        font-weight: bold;
+    }
+    a:hover {
+        color:rgba(204, 52, 14, 0.61);
+    }

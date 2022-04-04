@@ -1,0 +1,147 @@
+
+
+h1 {
+    font-family: 'Ubuntu Mono', monospace;
+    text-shadow: 10px 5px 10px rgba(216, 219, 9, 0.514);
+    
+    border-bottom-style:  dashed;
+    border-color: rgba(28, 106, 252, 0.808);
+}
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+     
+}
+span {
+    font-size: 12;
+    line-height: 5mm;
+}
+
+h3 {
+  text-align: center;
+  text-shadow: 10px 5px 10px rgba(54, 221, 62, 0.521);
+}
+
+#edu {
+  margin: auto;
+  border-radius: 5%;
+  height: 400px;
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+
+#edu1 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%; 
+}
+#edu2 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%; 
+}
+#edu3 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%; 
+}
+#edu4 {
+  align-self:center;
+  margin-bottom: 8x;
+  width: 300px;
+  height: 220px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%; 
+}
+
+#xp {
+  margin: auto;
+  border-radius: 5%;
+  height: 400px;
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around
+}
+
+#xp1 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%;
+}
+#xp2 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%;
+}
+
+#xp3 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%;
+}
+
+#xp4 {
+  width: 250px;
+  height: 180px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+  border-radius: 4%;
+}
+
+
+
+.shadow {
+    box-shadow: 0 3px 6px rgb(127, 221, 19), 0 4px 5px rgb(212, 57, 205);
+}
+
+
+body {
+    padding-bottom: 3em;
+}
+
+#SecFin {
+  margin-top:55px;
+  margin-bottom: 35px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+  padding: 5%;
+  height: 400px;
+  width: 800pxt;
+  border-radius: 5%;
+}
+
+#skill {
+  height: 420px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+}
+
+img {
+  align-self: center;
+  border-radius: 50%;
+  
+}
+
+#hob {
+  height: 420px;
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+}
+
+#So-why {
+  font-size: 18px;
+  line-height: 25px;
+  color: rgba(253, 253, 253, 0.808);
+  text-shadow: 4px 4px 3px rgba(28, 106, 252, 0.808); 
+  padding-bottom: 3cm;
+  
+  border: 0.1px rgba(0, 0, 0, 0.5) solid;
+}
+color: rgba(28, 106, 252, 0.808);
